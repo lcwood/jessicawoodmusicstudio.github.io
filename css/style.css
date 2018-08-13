@@ -169,7 +169,7 @@ strong {
 .page-title {
   display: block;
   padding: 20px 0;
-  margin-bottom: 60px;
+  margin-bottom: 0px;
 }
 .page-title h2 {
   position: relative;
@@ -1364,7 +1364,7 @@ a .blog-container .blog-content h3:focus {
   position: relative;
   width: 100%;
   min-height: 300px;
-  padding: 60px 0 40px;
+  padding: 60px 0 120px;
   background-color: transparent !important;
   background-image: url('../img/img01.jpg') !important;
   -webkit-background-size: cover;
